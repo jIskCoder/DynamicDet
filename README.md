@@ -1,4 +1,5 @@
 # DynamicDet [[arXiv]](https://arxiv.org/abs/2304.05552)
+## <span style="color:red"> UPDATED</span>
 
 This repo contains the official implementation of [**"DynamicDet: A Unified Dynamic Architecture for Object Detection"**](https://arxiv.org/abs/2304.05552).
 
